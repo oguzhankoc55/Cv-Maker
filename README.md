@@ -1,3 +1,4 @@
-# Goksel-Oguz-Omer
+# Cv Maker
 
-Bu proje niye yarım kaldı arkadaşlar
+We tried to make Cv maker website. 
+It is a little incomplete but we will complete it. 
